@@ -1,1 +1,1 @@
-# Heart-Disease-Prediction-Using-Logistic-Regression-main
+# Heart-Disease-Prediction-Using-Logistic-Regression
